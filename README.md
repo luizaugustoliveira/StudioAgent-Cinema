@@ -110,6 +110,17 @@ The system generates a comprehensive markdown document containing:
 - Three thumbnail options embedded as images
 - Professional formatting ready for content creation
 
+## Technologies Used
+
+- **Python 3.12** - Main programming language
+- **CrewAI** - Multi-agent AI orchestration framework
+- **LangChain** - Framework for LLM-based application development
+- **OpenAI API** - GPT model for text generation and DALL-E for images
+- **DuckDuckGo Search** - Web search tool for up-to-date information
+- **Jupyter Notebook** - Interactive development environment
+- **Make** - Task automation and environment configuration
+- **Python-dotenv** - Environment variable management
+
 ## Dependencies
 
 - `crewai` - Multi-agent orchestration framework
